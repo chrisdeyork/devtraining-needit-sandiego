@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_header">
+    <sys_ws_header action="DELETE">
+        <example_value>is_active = true</example_value>
+        <name>demo_query</name>
+        <required>false</required>
+        <short_description>Demo query</short_description>
+        <sys_class_name>sys_ws_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 04:00:51</sys_created_on>
+        <sys_id>96eef1e897a11110c92574400153af34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo_query</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_header_96eef1e897a11110c92574400153af34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 04:00:51</sys_updated_on>
+        <web_service_definition display_value="NeedIt API">8af5d9a497211110c92574400153af9d</web_service_definition>
+    </sys_ws_header>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>506855bddb8fc8d40b9d21c405961911</instance_id>
+        <instance_name>dev101312</instance_name>
+        <name>sys_ws_header_96eef1e897a11110c92574400153af34</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_header"><sys_ws_header action="INSERT_OR_UPDATE"><example_value>is_active = true</example_value><name>demo_query</name><required>false</required><short_description>Demo query</short_description><sys_class_name>sys_ws_header</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-23 04:00:51</sys_created_on><sys_id>96eef1e897a11110c92574400153af34</sys_id><sys_mod_count>0</sys_mod_count><sys_name>demo_query</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ws_header_96eef1e897a11110c92574400153af34</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-23 04:00:51</sys_updated_on><web_service_definition display_value="NeedIt API">8af5d9a497211110c92574400153af9d</web_service_definition></sys_ws_header></record_update>]]></payload>
+        <payload_hash>122337593</payload_hash>
+        <record_name>demo_query</record_name>
+        <reverted_from/>
+        <source>247f6fd507a85110d15ff6fd7c1ed06e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 04:00:51</sys_created_on>
+        <sys_id>552ff5e897a11110c92574400153af96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182c8dc38ce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 04:00:51</sys_updated_on>
+        <type>Scripted REST Header</type>
+        <update_guid>9d2ff5e83aa111102956648e83e02b95</update_guid>
+        <update_guid_history>9d2ff5e83aa111102956648e83e02b95:122337593</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 13:16:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_header">sys_ws_header</sys_db_object>
+        <sys_id>cc1f6a5f615740ce9c4a0a74c7d1e7d1</sys_id>
+        <sys_metadata>96eef1e897a11110c92574400153af34</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo_query</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ws_header_96eef1e897a11110c92574400153af34</sys_update_name>
+        <sys_update_version display_value="sys_ws_header_96eef1e897a11110c92574400153af34">552ff5e897a11110c92574400153af96</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 13:16:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

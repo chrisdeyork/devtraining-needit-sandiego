@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employee" max_length="40" name="x_58872_needit_employee" sizeclass="0" type="collection">
+        <element label="Email" mandatory="true" max_length="200" name="u_email" type="string"/>
+        <element label="Name" mandatory="true" max_length="100" name="u_name" type="string"/>
+        <element label="Work Phone" mandatory="true" max_length="50" name="u_work_phone" type="phone_number_e164"/>
+    </element>
+</database>
